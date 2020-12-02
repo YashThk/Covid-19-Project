@@ -1,0 +1,2 @@
+# Covid-19-Project
+• Fully automated, backend data retrieval from Covid-19 Tracker and US Census and splitting based on state, separate CSV file for each state. (Python - requests, pandas, os) • Data Manipulation for correction of missing columns, multiple anomaly detection and correction with 7-day moving average, daily recovery estimation, smoothing for weekly recovery reporting, merging population &amp; average household (static), formatting in the right order and combining multiple files based on presence of recovery data (Python - pandas, numpy, xlwt, datetime, csv)
